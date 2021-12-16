@@ -1,0 +1,3 @@
+/home/xyw/project/qxserver/build/CMakeFiles/rebuild_cache.dir
+/home/xyw/project/qxserver/build/CMakeFiles/edit_cache.dir
+/home/xyw/project/qxserver/build/CMakeFiles/server.dir

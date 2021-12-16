@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xyw/project/qxserver/sqlconnection.cpp
+sqlconnection.h
+/home/xyw/project/qxserver/sqlconnection.h
+
+/home/xyw/project/qxserver/sqlconnection.h
+mysql_connection.h
+/home/xyw/project/qxserver/mysql_connection.h
+cppconn/driver.h
+-
+cppconn/exception.h
+-
+cppconn/resultset.h
+-
+cppconn/statement.h
+-
+cppconn/prepared_statement.h
+-
+string
+-
+mutex
+-
+list
+-
+pthread.h
+-
+semaphore.h
+-
+
